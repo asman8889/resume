@@ -1,0 +1,74 @@
+ nav 
+
+*{ margin: 0;
+    padding: 0;
+}
+
+
+nav{
+background: rgb(252, 252, 252);
+color: rgb(2, 2, 2);
+height: 40px;
+display: flex;
+justify-content: space-between;
+padding: 0 4rem;
+align-items: center;
+}
+ul.menu {
+
+    display: flex;
+    list-style: none;
+}
+ul.menu li {
+    margin-left: 1rem;
+}
+ul.menu li a {
+
+    color: rgb(0, 0, 0);
+   text-decoration: none;
+}*/
+
+*{
+margin: 0;
+padding: 0;
+
+
+}
+
+
+    .img img{
+        width: 100%;
+      
+    }
+
+
+.contant{
+    background: rgb(205, 182, 143);
+text-align: center;
+border-bottom: 2 px solid;
+padding: 0;
+
+}
+
+.kk{
+    text-align: center; 
+}
+
+.imgall{
+    display: flex;
+ margin-left: 25rem;
+
+}
+
+
+
+.kills{
+    background: rgb(222, 216, 206);
+}
+
+
+.info{
+
+    margin-left: 1100px;
+    size: 30px;
+}
